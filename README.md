@@ -1,2 +1,2 @@
 # Flyers-
-Design and Print Flyers for WordCamp Barcelona and WordCamp Verona
+Design and Print Flyers for WordCamp Barcelona (400) and WordCamp Verona (200).
